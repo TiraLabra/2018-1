@@ -1,25 +1,25 @@
 # Viikko 1:
 
-* Palautus 1: **TODO**
+* Palautus 1: **Sunnuntaina 9.9. klo 23:59**
     * Aihe, käytettävä ohjelmointikieli ja työn laajuus päätetty.
         * Juttele tarvittaessa ohjaajan kanssa. Jos toteutat jonkin valmiista aiheista Javalla ja kaikki on selvää, voit siirtyä suoraan määrittelydokumentin kirjoittamiseen. Jos haluat toteuttaa työn täysin omasta aiheesta tai erikoisemmalla kielellä, kannattaa asiasta jutella ennen palautuksen tekemistä.
     * Dokumentaatio: Määrittelydokumentti valmis.
-    * Viikkoraportti numero 1: Kirjoitettu ensimmäinen viikkoraportti (ks. [Palautukset](Palautukset))
-    * Projekti: Projekti luotu. Ohjeita tarvittaessa [täältä](Maven-tai-Gradle). Alustettu versionhallinta (Github). Kaikki palautettava lisätään versionhallintaan, sähköpostilla ei palauteta mitään!
-    * Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](Issueiden-luonnin-salliminen-repoon)
+    * Viikkoraportti numero 1: Kirjoitettu ensimmäinen viikkoraportti (ks. [Palautukset](sivut/palautukset.md))
+    * Projekti: Projekti luotu. Ohjeita tarvittaessa [täältä](sivut/maven-gradle.md). Alustettu versionhallinta (Github). Kaikki palautettava lisätään versionhallintaan, sähköpostilla ei palauteta mitään!
+    * Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](sivut/issuet.md)
     * Rekisteröidytty kurssille labtoolissa: [https://studies.cs.helsinki.fi/labtool/](https://studies.cs.helsinki.fi/labtool/)
 
 # Viikko 2:
 
-* Palautus 2: **TODO**
+* Palautus 2: **Perjantaina 14.9. klo 23:59**
     * Dokumentaatio: Kirjoitettu koodi on selkeää ja kommentoitua (esim. Javalla tehdyssä työssä Javadoc-kommentit).
-    * Viikkoraportti numero 2: ks. [Palautukset](Palautukset)
+    * Viikkoraportti numero 2: ks. [Palautukset](sivut/palautukset.md)
     * Ohjelma: Aloitettu ydinalueen toteutus käyttäen tarvittaessa esim. Javan valmiita tietorakenteita (ArrayList, HashMap yms.). Nämä korvataan myöhemmin omilla tietorakenteilla, mutta useissa tapauksissa ohjelman toteutus on helpompi aloittaa jostain muusta kuin tietorakenteista.
     * Testaus: Koodin *kattava* yksikkötestaus. (esim. Javalla tehdyssä työssä JUnit)
 
 # Viikko 3:
 
-* Palautus 3: **TODO**
+* Palautus 3: **Perjantaina 21.9. klo 23:59**
     * Dokumentaatio: Kirjoitettu koodi selkeää ja kommentoitua.
     * Viikkoraportti numero 3
     * Ohjelma: Ohjelman ydinalue edennyt, aloitettu mahdollisesti jo omien tietorakenteiden toteutus.
@@ -27,10 +27,11 @@
 
 # Viikko 4:
 
-* Ensimmäiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso tiralabtoolista linkki katselmoitavaan repoon. Vertaisarvionnin deadline on sama kuin viikon 5 deadline.
-* Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](Issueiden-luonnin-salliminen-repoon)
+* Ensimmäiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso tiralabtoolista linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin viikon 5 deadline.**
+* Ohjeet vertaisarviointiin [täällä](sivut/vertaisarviointi.md)
+* Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](sivut/issuet.md)
 
-* Palautus 4: **TODO**
+* Palautus 4: **Perjantaina 28.9. klo 23:59**
     * Dokumentaatio: Koodi kommentoitua. Aloitettu kirjoittamaan toteutus- ja testausdokumentaatiota.
     * Viikkoraportti numero 4
     * Ohjelma: Ohjelman ydintoiminta valmis. Omia tietorakenteita aloitettu.
@@ -40,7 +41,7 @@
 
 * Toiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso tiralabtoolista linkki katselmoitavaan repoon. Vertaisarvionnin deadline on sama kuin DL 6.
 
-* Palautus 5: **TODO**
+* Palautus 5: **Perjantaina 5.10. klo 23:59**
    * Ensimmäinen vertaisarviointi tehtynä (Löydät linkin katselmoitavaan repoon tiralabtoolista)
    * Dokumentaatio: Koodi kommentoitua. Aloitettu kirjoittamaan toteutus- ja testausdokumentaatiota.
    * Viikkoraportti numero 5
@@ -49,7 +50,7 @@
 
 # Viikko 6:
 
-* Palautus 6: **TODO**
+* Palautus 6: **Perjantaina 12.10. klo 23:59**
    * Toinen vertaisarviointi tehtynä (Löydät linkin katselmoitavaan repoon tiralabtoolista)
    * Dokumentaatio: Kirjoitettu koodi kommentoitua. Toteutus- ja testausdokumentaatiota kirjoitettu.
    * Viikkoraportti numero 6
@@ -58,11 +59,11 @@
 
 # Demo tilaisuus:
 
-* Exactumin luokassa **TODO**
+* **Keskiviikkona 17.10. klo 12:15-13:00** Exactumin luokassa **???** (_tiedossa myöhemmin_)
 * Lyhyt noin 5 minuuttinen esitys ja mahdollisiin kysymyksiin vastailu
 
 
-# LOPULLINEN PALAUTUS **TODO**
+# LOPULLINEN PALAUTUS: Tenttiviikolla Perjantaina 26.10. klo 23:59
 * Dokumentaatio:
     * 100% selkeää ja kommentoitu koodi (jos käytit Javaa, generoi Javadoc ja lisää palautukseen)
     * Valmiit dokumentit:
