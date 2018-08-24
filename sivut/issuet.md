@@ -1,3 +1,5 @@
+# Issueiden luonnin salliminen repoon
+
 1) Mene repositoriosi
 
 2) Klikkaa vasemmalta Settings (kts kuva alla)
