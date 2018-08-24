@@ -8,19 +8,21 @@
 
 |  Viikko | Ma | Ti | Ke | To | Pe | La | Su |
 |---------------------------|:--:|:--:|:----------------------------:|:--:|:----------------------:|:--:|:----------:|
-| 36 3.9.- |  |  |  Aloitustilaisuus 12-14 D123 |  |  |  | DL 1 23:59 |
-| 37 10.9.- |  |  | Paja BK107 11-12 |  |  DL 2 23:59 |  |  |
-| 38 17.9.- |  |  | Paja BK107 11-12 |  |  DL 3 23:59 |  |  |
-| 39 24.9.- |  |  | Paja BK107 11-12 |  | DL 4 23:59 |  |  |
-| 40 1.10.- |  |  | Paja BK107 11-12 |  |  DL 5 23:59 |  |  |
-| 41 8.10.- |  |  | Paja BK107 11-12 |  |  DL 6 23:59 |  |  |
+| 36 3.9.- |  |  |  Aloitustilaisuus 12-14 D123 |  |  |  | [DL 1 23:59](sivut/aikataulu.md#viikko-1) |
+| 37 10.9.- |  |  | Paja BK107 11-12 |  |  [DL 2 23:59](sivut/aikataulu.md#viikko-1) |  |  |
+| 38 17.9.- |  |  | Paja BK107 11-12 |  |  [DL 3 23:59](sivut/aikataulu.md#viikko-1) |  |  |
+| 39 24.9.- |  |  | Paja BK107 11-12 |  | [DL 4 23:59](sivut/aikataulu.md#viikko-1) |  |  |
+| 40 1.10.- |  |  | Paja BK107 11-12 |  |  [DL 5 23:59](sivut/aikataulu.md#viikko-1) |  |  |
+| 41 8.10.- |  |  | Paja BK107 11-12 |  |  [DL 6 23:59](sivut/aikataulu.md#viikko-1) |  |  |
 | 42 15.10.- |  |  | Paja BK107 11-12 + **DEMOT** |  |  |  |  |
-|  43 22.10.-  _Tenttiviikko_ |  |  |  |  |  Lopullinen   palautus |  |  |
+|  43 22.10.-  _Tenttiviikko_ |  |  |  |  |  [Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo) |  |  |
 
 ## Aloitustilaisuus
 Kaikille pakollinen aloitustilaisuus **keskiviikkona 5.9. klo 12-14** luokassa **D123**.
 
-Jos et pääse paikalle, ota yhteyttä ohjaajaan.
+Voit aloittaa [aiheen valinnan](sivut/aiheet.md) jo ennen aloitustilaisuutta.
+
+**Jos et pääse paikalle, ota yhteyttä ohjaajaan!**
 
 ## IRC ja telegram
 Kurssin IRC-kanava on **#tiralabra** @IRCnet.
