@@ -6,6 +6,8 @@
 
 ## Aikataulu
 
+Tarkempi aikataulu [täällä](sivut/aikataulu.md).
+
 |  Viikko | Ma | Ti | Ke | To | Pe | La | Su |
 |---------------------------|:--:|:--:|:----------------------------:|:--:|:----------------------:|:--:|:----------:|
 | 36 3.9.- |  |  |  Aloitustilaisuus 12-14 D123 |  |  |  | [DL 1 23:59](sivut/aikataulu.md#viikko-1) |

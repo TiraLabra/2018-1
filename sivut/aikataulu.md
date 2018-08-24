@@ -4,16 +4,17 @@
     * Aihe, käytettävä ohjelmointikieli ja työn laajuus päätetty.
         * Juttele tarvittaessa ohjaajan kanssa. Jos toteutat jonkin valmiista aiheista Javalla ja kaikki on selvää, voit siirtyä suoraan määrittelydokumentin kirjoittamiseen. Jos haluat toteuttaa työn täysin omasta aiheesta tai erikoisemmalla kielellä, kannattaa asiasta jutella ennen palautuksen tekemistä.
     * Dokumentaatio: Määrittelydokumentti valmis.
-    * Viikkoraportti numero 1: Kirjoitettu ensimmäinen viikkoraportti (ks. [Palautukset](sivut/palautukset.md))
-    * Projekti: Projekti luotu. Ohjeita tarvittaessa [täältä](sivut/maven-gradle.md). Alustettu versionhallinta (Github). Kaikki palautettava lisätään versionhallintaan, sähköpostilla ei palauteta mitään!
-    * Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](sivut/issuet.md)
+    * Viikkoraportti numero 1: Kirjoitettu ensimmäinen viikkoraportti (ks. [Palautukset](/sivut/palautukset.md))
+    * Projekti: Projekti luotu. Ohjeita tarvittaessa [täältä](/sivut/maven-gradle.md). Alustettu versionhallinta (Github). Kaikki palautettava lisätään versionhallintaan, sähköpostilla ei palauteta mitään!
+    * Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](/sivut/issuet.md)
     * Rekisteröidytty kurssille labtoolissa: [https://studies.cs.helsinki.fi/labtool/](https://studies.cs.helsinki.fi/labtool/)
+    * Labtoolin [pikaohje](/sivut/labtool.md)
 
 # Viikko 2:
 
 * Palautus 2: **Perjantaina 14.9. klo 23:59**
     * Dokumentaatio: Kirjoitettu koodi on selkeää ja kommentoitua (esim. Javalla tehdyssä työssä Javadoc-kommentit).
-    * Viikkoraportti numero 2: ks. [Palautukset](sivut/palautukset.md)
+    * Viikkoraportti numero 2: ks. [Palautukset](/sivut/palautukset.md)
     * Ohjelma: Aloitettu ydinalueen toteutus käyttäen tarvittaessa esim. Javan valmiita tietorakenteita (ArrayList, HashMap yms.). Nämä korvataan myöhemmin omilla tietorakenteilla, mutta useissa tapauksissa ohjelman toteutus on helpompi aloittaa jostain muusta kuin tietorakenteista.
     * Testaus: Koodin *kattava* yksikkötestaus. (esim. Javalla tehdyssä työssä JUnit)
 
@@ -28,8 +29,8 @@
 # Viikko 4:
 
 * Ensimmäiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso tiralabtoolista linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin viikon 5 deadline.**
-* Ohjeet vertaisarviointiin [täällä](sivut/vertaisarviointi.md)
-* Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](sivut/issuet.md)
+* Ohjeet vertaisarviointiin [täällä](/sivut/vertaisarviointi.md)
+* Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](/sivut/issuet.md)
 
 * Palautus 4: **Perjantaina 28.9. klo 23:59**
     * Dokumentaatio: Koodi kommentoitua. Aloitettu kirjoittamaan toteutus- ja testausdokumentaatiota.
