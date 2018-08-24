@@ -40,7 +40,14 @@ Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsik
 ## Demotilaisuus
 
 * **17.10. 12:15-13:00**
+* **PAKOLLINEN**
 * Luokka selviää myöhemmin
+
+## Esimerkkiprojektit
+
+* [Saskelin projekti](https://github.com/saskeli/NonogramSolver_TiRa) **Huom:** että etenkin jälkeen kurssi on jonkin verran muuttunut.
+* Ja Jussi sanoi että [oma projektinsa](https://github.com/yussiv/Compress) oli kiireessä tehty mahdollisimman helpolla suoritettu.
+* Molemmat kuitenkin ovat projektirakenteiltaan hyviä jos haluaa esimerkkejä.
 
 ## Kurssin suorittaminen
 Kurssin työmäärä on opintopisteiden (4) perusteella n. 107 tuntia. Varaudu siis käyttämään työhön 15-20 tuntia viikossa jokaisella viikolla.
