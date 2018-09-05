@@ -6,7 +6,7 @@
 
 ## :calendar: Aikataulu
 
-Tarkempi aikataulu [täällä](sivut/aikataulu.md).
+Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aikataulu_EN.md).
 
 |  Viikko | Ma | Ti | Ke | To | Pe | La | Su |
 |---------------------------|:--:|:--:|:----------------------------:|:--:|:----------------------:|:--:|:----------:|
