@@ -4,13 +4,13 @@
 
 * Olli-Pekka Mehtonen, (etunimi@cs.helsinki.fi), Ooppa@IRCnet
 
-## Aikataulu
+## :calendar: Aikataulu
 
 Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 
 |  Viikko | Ma | Ti | Ke | To | Pe | La | Su |
 |---------------------------|:--:|:--:|:----------------------------:|:--:|:----------------------:|:--:|:----------:|
-| 36 3.9.- |  |  |  Aloitustilaisuus 12-14 D123 |  |  |  | [DL 1 23:59](sivut/aikataulu.md#viikko-1) |
+| 36 3.9.- |  |  |  ~~Aloitustilaisuus 12-14 D123~~ |  |  |  | [DL 1 23:59](sivut/aikataulu.md#viikko-1) |
 | 37 10.9.- |  |  | Paja BK107 11-12 |  |  [DL 2 23:59](sivut/aikataulu.md#viikko-1) |  |  |
 | 38 17.9.- |  |  | Paja BK107 11-12 |  |  [DL 3 23:59](sivut/aikataulu.md#viikko-1) |  |  |
 | 39 24.9.- |  |  | Paja BK107 11-12 |  | [DL 4 23:59](sivut/aikataulu.md#viikko-1) |  |  |
@@ -19,12 +19,14 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 | 42 15.10.- |  |  | Paja BK107 11-12 + **DEMOT** |  |  |  |  |
 |  43 22.10.-  _Tenttiviikko_ |  |  |  |  |  [Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo) |  |  |
 
-## Aloitustilaisuus
-Kaikille pakollinen aloitustilaisuus **keskiviikkona 5.9. klo 12-14** luokassa **D123**.
+## :mega: Ajankohtaista
+Aloitustilaisuus on ohi, jos et päässyt paikalle lue kalvot.
+[Aiheen valinta](sivut/aiheet.md) tehtävä tällä viikolla
 
-Voit aloittaa [aiheen valinnan](sivut/aiheet.md) jo ennen aloitustilaisuutta.
+## :notebook: Labtool
 
-**Jos et pääse paikalle, ota yhteyttä ohjaajaan!**
+ * [https://studies.cs.helsinki.fi/labtool/](https://studies.cs.helsinki.fi/labtool/)
+ * Kirjaudu Yliopiston tunnuksilla.
 
 ## IRC ja telegram
 Kurssin IRC-kanava on **#tiralabra** @IRCnet.
@@ -36,6 +38,10 @@ Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsik
 
 * Viikottainen paja luokassa BK107 (katso aikataulu).
 * Voit myös ottaa yhteyttä sähköpostilla tai ircissä.
+
+### Algopaja
+
+Käy kysymässä apua algoritmeihin liittyvissä asioissa [Algopajassa](https://courses.helsinki.fi/fi/TKT20000/126082463).
 
 ## Demotilaisuus
 
@@ -49,7 +55,7 @@ Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsik
 * Ja Jussi sanoi että [oma projektinsa](https://github.com/yussiv/Compress) oli kiireessä tehty mahdollisimman helpolla suoritettu.
 * Molemmat kuitenkin ovat projektirakenteiltaan hyviä jos haluaa esimerkkejä.
 
-## Kurssin suorittaminen
+## :trophy: Kurssin suorittaminen
 Kurssin työmäärä on opintopisteiden (4) perusteella n. 107 tuntia. Varaudu siis käyttämään työhön 15-20 tuntia viikossa jokaisella viikolla.
 
 Kurssilla opiskelija toteuttaa ohjelman, joka ratkaisee jonkin ohjelmointiongelman. Ongelmanratkaisuun käytetään sopivia algoritmeja sekä tietorakenteita. Oppimismatriisin tiedoista poiketen, opiskelja valitsee ratkaistavan ongelman yhdessä ohjaajan kanssa. Suoritus ei edellytä oman algoritmin kehittämistä. Tämäkin on mahdollista, mikäli opiskelija haluaa haastavamman aiheen. Keskeistä työssä on, että ohjelma on toimiva ja tehokas. Sen tulee kaikissa tapauksissa antaa nopeasti oikea vastaus. Työn aiheesta riippuu, miten suuria tapauksia ohjelman tulee pystyä käsittelemään. Tämä sovitaan ohjaajan kanssa. Mahdollisia aiheita voi katsoa [täältä](sivut/aiheet.md).
@@ -62,7 +68,7 @@ Kurssin ensisijainen tavoite on oppia toteuttamaan itse tietorakenteita, ja täs
 
 Hyväksi koettu tapa tehdä työ vaiheittain on laittaa ensin kuntoon algoritmin ydin käyttäen kielen standardikirjastojen valmista kalustoa (jonot, keot, järjestämisalgoritmit). Kannattaa siis pyrkiä toteuttamaan algoritmin ydin nopeasti ja sen jälkeen korvata käytetty kalusto omilla toteutuksilla. Eli toteuttaa rajapintojen takana olevat rakenteet ja/tai algoritmit itse.  Tätä tapaa käytetään osapalautusten pohjana algoritmin/tietorakenteiden kehityksen osalta. Mikäli toteutat työn erilaisella lähestymistavalla, sovi työn edistymisen "Milestone":t jo 1. viikon aikana ohjaajan kanssa.
 
-## Arvosteluperusteet
+## :chart_with_upwards_trend: Arvosteluperusteet
 * Ohjelma: 30 p
    * Toimivuus ja ominaisuudet 10 p
    * Testaus 10 p
