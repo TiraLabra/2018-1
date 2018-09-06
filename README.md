@@ -2,7 +2,7 @@
 
 ## Ohjaaja
 
-* Olli-Pekka Mehtonen, (etunimi@cs.helsinki.fi), Ooppa@IRCnet
+* Olli-Pekka Mehtonen, (etunimi.sukunimi@cs.helsinki.fi), Ooppa@IRCnet
 
 ## :calendar: Aikataulu
 
