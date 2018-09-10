@@ -10,7 +10,7 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 
 |  Viikko | Ma | Ti | Ke | To | Pe | La | Su |
 |---------------------------|:--:|:--:|:----------------------------:|:--:|:----------------------:|:--:|:----------:|
-| 36 3.9.- |  |  |  ~~Aloitustilaisuus 12-14 D123~~ |  |  |  | [DL 1 23:59](sivut/aikataulu.md#viikko-1) |
+| 36 3.9.- |  |  |  ~~Aloitustilaisuus 12-14 D123~~ |  |  |  | ~~[DL 1 23:59](sivut/aikataulu.md#viikko-1)~~ |
 | 37 10.9.- |  |  | Paja BK107 11-12 |  |  [DL 2 23:59](sivut/aikataulu.md#viikko-1) |  |  |
 | 38 17.9.- |  |  | Paja BK107 11-12 |  |  [DL 3 23:59](sivut/aikataulu.md#viikko-1) |  |  |
 | 39 24.9.- |  |  | Paja BK107 11-12 |  | [DL 4 23:59](sivut/aikataulu.md#viikko-1) |  |  |
@@ -20,8 +20,8 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 |  43 22.10.-  _Tenttiviikko_ |  |  |  |  |  [Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo) |  |  |
 
 ## :mega: Ajankohtaista
-Aloitustilaisuus on ohi, jos et päässyt paikalle lue kalvot.
-[Aiheen valinta](sivut/aiheet.md) tehtävä tällä viikolla
+
+Joillain opiskelijoilla on ongelmia rekisteröityä **Labtooliin**. Tehkää silti normaalisti töitä. Asiaa koitetaan ratkaista.
 
 ## :notebook: Labtool
 
