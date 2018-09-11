@@ -21,7 +21,8 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 
 ## :mega: Ajankohtaista
 
-Joillain opiskelijoilla on ongelmia rekisteröityä **Labtooliin**. Tehkää silti normaalisti töitä. Asiaa koitetaan ratkaista.
+ * Joillain opiskelijoilla on ongelmia rekisteröityä **Labtooliin**. Tehkää silti normaalisti töitä. Asiaa koitetaan ratkaista.
+ * Ongelma saattaa ratketa, jos ottaa erikoismerkit pois repon ja projektin nimestä (esim väliviiva)
 
 ## :notebook: Labtool
 
