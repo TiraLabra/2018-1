@@ -39,8 +39,8 @@ Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsik
 
 ## Ohjaus
 
-* Viikottainen paja luokassa BK107 (katso aikataulu).
-* Voit myös ottaa yhteyttä sähköpostilla tai ircissä.
+* Ohjausaikaa järjestetään **pyynnöstä** luokassa BK107 tai sähköpostilla.
+* Voit myös ottaa yhteyttä [Telegramissa](https://t.me/tkttiralabra) tai ircissä.
 
 ### Algopaja
 
