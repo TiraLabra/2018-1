@@ -11,18 +11,20 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 |  Viikko | Ma | Ti | Ke | To | Pe | La | Su |
 |---------------------------|:--:|:--:|:----------------------------:|:--:|:----------------------:|:--:|:----------:|
 | 36 3.9.- |  |  |  ~~Aloitustilaisuus 12-14 D123~~ |  |  |  | ~~[DL 1 23:59](sivut/aikataulu.md#viikko-1)~~ |
-| 37 10.9.- |  |  | Paja BK107 11-12 |  |  [DL 2 23:59](sivut/aikataulu.md#viikko-1) |  |  |
-| 38 17.9.- |  |  | Paja BK107 11-12 |  |  [DL 3 23:59](sivut/aikataulu.md#viikko-1) |  |  |
-| 39 24.9.- |  |  | Paja BK107 11-12 |  | [DL 4 23:59](sivut/aikataulu.md#viikko-1) |  |  |
-| 40 1.10.- |  |  | Paja BK107 11-12 |  |  [DL 5 23:59](sivut/aikataulu.md#viikko-1) |  |  |
-| 41 8.10.- |  |  | Paja BK107 11-12 |  |  [DL 6 23:59](sivut/aikataulu.md#viikko-1) |  |  |
-| 42 15.10.- |  |  | Paja BK107 11-12 + **DEMOT** |  |  |  |  |
+| 37 10.9.- |  |  | |  |  ~~[DL 2 23:59](sivut/aikataulu.md#viikko-1)~~ |  |  |
+| 38 17.9.- |  |  |  |  |  [DL 3 23:59](sivut/aikataulu.md#viikko-1) |  |  |
+| 39 24.9.- |  |  |  |  | [DL 4 23:59](sivut/aikataulu.md#viikko-1) |  |  |
+| 40 1.10.- |  |  |  |  |  [DL 5 23:59](sivut/aikataulu.md#viikko-1) |  |  |
+| 41 8.10.- |  |  |  |  |  [DL 6 23:59](sivut/aikataulu.md#viikko-1) |  |  |
+| 42 15.10.- |  |  | **DEMOT** |  |  |  |  |
 |  43 22.10.-  _Tenttiviikko_ |  |  |  |  |  [Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo) |  |  |
 
-## :mega: Ajankohtaista
+## :mega: Ajankohtaista - News
 
- * Joillain opiskelijoilla on ongelmia rekisteröityä **Labtooliin**. Tehkää silti normaalisti töitä. Asiaa koitetaan ratkaista.
- * Ongelma saattaa ratketa, jos ottaa erikoismerkit pois repon ja projektin nimestä (esim väliviiva)
+ * Pajassa ei ollut ensimmäisellä viikolla ketään, joten jatkossa ohjausaikaa järjestetään pyynnöstä. Laita kysymykset sähköpostilla, tai jos tarvitset lähiopetusta, niin järjestetään aika erikseen.
+ * Muista myös, että voit pyytää apua [Algopajassa](https://courses.helsinki.fi/fi/TKT20000/126082463)!
+ * There was nobody in the workshop during the first week, thus in the future the guidance will only be organized by request. Send your questions via e-mail or if you need it, a time can be scheduled for close-contact-guidance.
+ * Also remember [Algorithm-workshop](https://courses.helsinki.fi/fi/TKT20000/126082463)!
 
 ## :notebook: Labtool
 
@@ -46,7 +48,7 @@ Käy kysymässä apua algoritmeihin liittyvissä asioissa [Algopajassa](https://
 
 ## Demotilaisuus
 
-* **17.10. 12:15-13:00**
+* **17.10. kello ???**
 * **PAKOLLINEN**
 * Luokka selviää myöhemmin
 
