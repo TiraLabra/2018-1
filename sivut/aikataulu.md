@@ -39,6 +39,11 @@
     * Ohjelma: Ohjelman ydintoiminta valmis. Omia tietorakenteita aloitettu.
     * Testaus: Koodin *kattava* yksikkötestaus. Aloitettu suorituskyky- tai muu aiheeseen sopiva testaus (kirjoita näistä testausdokumenttiin).
 
+* **Lisäksi palautukseen 4:**
+    * Katso, että repositoriosi etusivulle on linkattu suoraan viikkoraportit (nopeuttaa tarkastusta huomattavasti). Jos tarvitset apua markdownissa, niin katso GitHubin ohje: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/). Saat myös apua jos katsot esimerkiksi miten tämä tiedosto on tehty!
+    * Varmista, että kun teet luokkia niin olet myös testannut ne mahdollisimman nopeasti/aikaisin (mieluiten testit samassa palautuksessa, kuin luokat on koodattu). Siten tiedät, että koodi, jonka juuri kirjoitit toimii kuten haluat. Tarvittaessa tutustu [OTM materiaaliin yksikkötestauksesta](https://github.com/mluukkai/otm-2018/blob/master/web/junit.md).
+    * Tutustu [OTM materiaaliin koodin laadusta](https://github.com/mluukkai/otm-2018/blob/master/web/koodin_laatuvaatimukset.md) ja varmista, että noudatat hyviä periaatteita (voit myös katsoa [CheckStyle](https://github.com/mluukkai/otm-2018/blob/master/web/checkstyle.md) ohjeen).
+
 # Viikko 5:
 
 * Toiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso tiralabtoolista linkki katselmoitavaan repoon. Vertaisarvionnin deadline on sama kuin DL 6.
