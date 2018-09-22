@@ -11,11 +11,11 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 |  Viikko | Ma | Ti | Ke | To | Pe | La | Su |
 |---------------------------|:--:|:--:|:----------------------------:|:--:|:----------------------:|:--:|:----------:|
 | 36 3.9.- |  |  |  ~~Aloitustilaisuus 12-14 D123~~ |  |  |  | ~~[DL 1 23:59](sivut/aikataulu.md#viikko-1)~~ |
-| 37 10.9.- |  |  | |  |  ~~[DL 2 23:59](sivut/aikataulu.md#viikko-1)~~ |  |  |
-| 38 17.9.- |  |  |  |  |  ~~[DL 3 23:59](sivut/aikataulu.md#viikko-1)~~ |  |  |
-| 39 24.9.- |  |  |  |  | [DL 4 23:59](sivut/aikataulu.md#viikko-1) |  |  |
-| 40 1.10.- |  |  |  |  |  [DL 5 23:59](sivut/aikataulu.md#viikko-1) |  |  |
-| 41 8.10.- |  |  |  |  |  **Korvaavat DEMOT 14-15 BK107** [DL 6 23:59](sivut/aikataulu.md#viikko-1) |  |  |
+| 37 10.9.- |  |  | |  |  ~~[DL 2 23:59](sivut/aikataulu.md#viikko-2)~~ |  |  |
+| 38 17.9.- |  |  |  |  |  ~~[DL 3 23:59](sivut/aikataulu.md#viikko-3)~~ |  |  |
+| 39 24.9.- |  |  |  |  | [DL 4 23:59](sivut/aikataulu.md#viikko-4) |  |  |
+| 40 1.10.- |  |  |  |  |  [DL 5 23:59](sivut/aikataulu.md#viikko-5) |  |  |
+| 41 8.10.- |  |  |  |  |  **Korvaavat DEMOT 14-15 BK107** [DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
 | 42 15.10.- |  |  | **DEMOT** |  |  |  |  |
 |  43 22.10.-  _Tenttiviikko_ |  |  |  |  |  [Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo) |  |  |
 
