@@ -36,7 +36,7 @@ Please refer to the Finnish version (or the front page) for the deadline date an
 # Week 4:
 
 * First peer-review partners are assigned. **Peer-review deadline is the same as week 5 deadline.**
-* Check peer-review instructions in English [here](/sivut/vertaisarviointi_EN.md)
+* Check peer-review instructions in English [here](/sivut/vertaisarvioinnit_EN.md)
 * Make sure your GitHub repository allows issues.
 
 * Deadline 4:
