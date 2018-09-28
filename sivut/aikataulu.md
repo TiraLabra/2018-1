@@ -30,7 +30,7 @@
 # Viikko 4:
 
 * Ensimmäiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso tiralabtoolista linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin viikon 5 deadline.**
-* Ohjeet vertaisarviointiin [täällä](/sivut/vertaisarviointi.md)
+* Ohjeet vertaisarviointiin [täällä](/sivut/vertaisarvioinnit.md)
 * Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](/sivut/issuet.md)
 
 * Palautus 4: **Perjantaina 28.9. klo 23:59**
