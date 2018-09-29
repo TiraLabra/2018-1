@@ -1,5 +1,5 @@
 **This is a rough translation of the tasks for each week.**
-Please refer to the Finnish version (or the front page) for the deadline date and times.
+Please refer to the Finnish version (or the front page) for the deadline date and times. Please note that the Finnish version supersedes the English version. 
 
 # Week 1:
 
