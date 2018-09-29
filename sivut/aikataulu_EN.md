@@ -40,7 +40,7 @@ Please refer to the Finnish version (or the front page) for the deadline date an
 * Make sure your GitHub repository allows issues.
 
 * Deadline 4:
-    *  Written code should be clear and well commented.
+    *  Written code should be clear and well commented. Start writing implementation and testing document. 
         * See the documentation instructions in English [here](/sivut/dokumentaatio_EN.md).
     * Weekly report number 4
     * Program: Main functionality should be ready, own implementations of data structured started
