@@ -66,7 +66,7 @@
 
 # Demo tilaisuus:
 
-* **Keskiviikkona 17.10. klo 12:15-13:00** Exactumin luokassa **???** (_tiedossa myöhemmin_)
+* **Keskiviikkona 17.10. klo 10:15-12:00** Exactumin luokassa **???** (_tiedossa myöhemmin_)
 * Lyhyt noin 5 minuuttinen esitys ja mahdollisiin kysymyksiin vastailu
 
 

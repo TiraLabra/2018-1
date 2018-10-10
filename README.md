@@ -50,9 +50,8 @@ Käy kysymässä apua algoritmeihin liittyvissä asioissa [Algopajassa](https://
 
 ## Demotilaisuus
 
-* **17.10. kello ???**
+* **17.10. kello 10:15-12 salissa ???**
 * **PAKOLLINEN**
-* Luokka selviää myöhemmin
 
 ## Esimerkkiprojektit
 
