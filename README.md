@@ -52,6 +52,9 @@ Käy kysymässä apua algoritmeihin liittyvissä asioissa [Algopajassa](https://
 
 * **17.10. kello 10:15-12 salissa ???**
 * **PAKOLLINEN**
+* Projektit ladattu esityskoneelle etuajassa, josta näytetään oma työ.
+* Noin 5min per projekti.
+* Ei tarvitse dioja, mutta halutessaan niitä voi käyttää, tosin ne vie aikaa, joten ei suositeltu, ellei tuo omaa konetta esitykseen.
 
 ## Esimerkkiprojektit
 
