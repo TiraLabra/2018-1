@@ -50,7 +50,7 @@ Käy kysymässä apua algoritmeihin liittyvissä asioissa [Algopajassa](https://
 
 ## Demotilaisuus
 
-* **17.10. kello 10:15-12 salissa ???**
+* **17.10. kello 10:15-12 salissa C123**
 * **PAKOLLINEN**
 * Projektit ladattu esityskoneelle etuajassa, josta näytetään oma työ.
 * Noin 5min per projekti.
