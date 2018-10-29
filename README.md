@@ -16,13 +16,13 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 | 39 24.9.- |  |  |  |  | ~~[DL 4 23:59](sivut/aikataulu.md#viikko-4)~~ |  |  |
 | 40 1.10.- |  |  |  |  |  ~~[DL 5 23:59](sivut/aikataulu.md#viikko-5)~~ |  |  |
 | 41 8.10.- |  |  |  |  | ~~[DL 6 23:59](sivut/aikataulu.md#viikko-6)~~ |  |  |
-| 42 15.10.- |  |  | **DEMOT** |  |  |  |  |
-|  43 22.10.-  _Tenttiviikko_ |  |  |  |  |  [Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo) |  |  |
+| 42 15.10.- |  |  | ~~DEMOT~~ |  |  |  |  |
+|  43 22.10.-  _Tenttiviikko_ |  |  |  |  |  ~~[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo)~~ |  |  |
 
 
 
 ## :mega: Ajankohtaista - News
-
+ * **Kiitos kurssista!** Töiden tarkistus aloitetaan tällä viikolla.
  * Pajassa ei ollut ensimmäisellä viikolla ketään, joten jatkossa ohjausaikaa järjestetään pyynnöstä. Laita kysymykset sähköpostilla, tai jos tarvitset lähiopetusta, niin järjestetään aika erikseen.
  * Muista myös, että voit pyytää apua [Algopajassa](https://courses.helsinki.fi/fi/TKT20000/126082463)!
  * There was nobody in the workshop during the first week, thus in the future the guidance will only be organized by request. Send your questions via e-mail or if you need it, a time can be scheduled for close-contact-guidance.
